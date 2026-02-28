@@ -1,5 +1,3 @@
-Kural tabanlı müşteri segmentasyonu ve yeni kullanıcı gelir tahmini
-
 🎮 Kural Tabanlı Müşteri Segmentasyonu & Gelir Tahmini
 
 📌 Proje Hakkında
