@@ -1,4 +1,4 @@
-# Kural Tabanlı Müşteri Segmentasyonu & Gelir Tahmini
+## Kural Tabanlı Müşteri Segmentasyonu & Gelir Tahmini
 
 📌 Proje Hakkında
 
