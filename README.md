@@ -10,7 +10,7 @@ Bu projede bir oyun şirketinin müşteri verileri kullanılarak seviye tabanlı
 Veri seti uluslararası bir oyun şirketinin satış kayıtlarını içermektedir.
 
 
-Değişkenler
+### Değişkenler
 
 PRICE → Müşterinin harcama tutarı
 
@@ -25,7 +25,7 @@ AGE → Yaş
 ⚠️ Her satır bir satın alma işlemidir. Aynı kullanıcı birden fazla işlem yapmış olabilir.
 
 
-🎯 İş Problemi
+### 🎯 İş Problemi
 
 Şirket:
 
@@ -36,7 +36,7 @@ Müşterileri gelir potansiyeline göre segmentlere ayırmak
 Yeni gelen müşterilerin ortalama gelir getirisini tahmin etmek istemektedir.
 
 
-Örnek Soru:
+### Örnek Soru:
 
 Türkiye’den iOS kullanan 25 yaşındaki bir erkek kullanıcı ortalama ne kadar gelir kazandırır?
 
