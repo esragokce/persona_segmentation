@@ -41,6 +41,7 @@ Yeni gelen müşterilerin ortalama gelir getirisini tahmin etmek istemektedir.
 Türkiye’den iOS kullanan 25 yaşındaki bir erkek kullanıcı ortalama ne kadar gelir kazandırır?
 
 
+### 📈 Projeden Elde Edilen İçgörüler
 ✔ Persona oluşturma müşteri davranışlarını anlamayı kolaylaştırır
 
 ✔ Ülke ve cihaz türü gelir üzerinde önemli etkiye sahiptir
