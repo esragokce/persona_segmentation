@@ -1,11 +1,11 @@
 ## Kural Tabanlı Müşteri Segmentasyonu & Gelir Tahmini
 
-📌 Proje Hakkında
+### 📌 Proje Hakkında
 
 Bu projede bir oyun şirketinin müşteri verileri kullanılarak seviye tabanlı müşteri personları oluşturulmuş ve bu personlara göre yeni müşterilerin şirkete sağlayabileceği ortalama gelir tahmin edilmiştir.
 
 
-📊 Veri Seti Bilgilendirmesi
+#### 📊 Veri Seti Bilgilendirmesi
 
 Veri seti uluslararası bir oyun şirketinin satış kayıtlarını içermektedir.
 
