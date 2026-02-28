@@ -1,6 +1,7 @@
 Kural tabanlı müşteri segmentasyonu ve yeni kullanıcı gelir tahmini
 
 🎮 Kural Tabanlı Müşteri Segmentasyonu & Gelir Tahmini
+
 📌 Proje Hakkında
 
 Bu projede bir oyun şirketinin müşteri verileri kullanılarak seviye tabanlı müşteri personları oluşturulmuş ve bu personlara göre yeni müşterilerin şirkete sağlayabileceği ortalama gelir tahmin edilmiştir.
