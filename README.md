@@ -5,11 +5,9 @@
 Bu projede bir oyun şirketinin müşteri verileri kullanılarak seviye tabanlı müşteri personları oluşturulmuş ve bu personlara göre yeni müşterilerin şirkete sağlayabileceği ortalama gelir tahmin edilmiştir.
 
 
-
 📊 Veri Seti Bilgilendirmesi
 
 Veri seti uluslararası bir oyun şirketinin satış kayıtlarını içermektedir.
-
 
 
 Değişkenler
@@ -27,7 +25,6 @@ AGE → Yaş
 ⚠️ Her satır bir satın alma işlemidir. Aynı kullanıcı birden fazla işlem yapmış olabilir.
 
 
-
 🎯 İş Problemi
 
 Şirket:
@@ -39,11 +36,9 @@ Müşterileri gelir potansiyeline göre segmentlere ayırmak
 Yeni gelen müşterilerin ortalama gelir getirisini tahmin etmek istemektedir.
 
 
-
 Örnek Soru:
 
 Türkiye’den iOS kullanan 25 yaşındaki bir erkek kullanıcı ortalama ne kadar gelir kazandırır?
-
 
 
 ✔ Persona oluşturma müşteri davranışlarını anlamayı kolaylaştırır
