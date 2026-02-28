@@ -12,9 +12,13 @@ Veri seti uluslararası bir oyun şirketinin satış kayıtlarını içermektedi
 Değişkenler
 
 PRICE → Müşterinin harcama tutarı
+
 SOURCE → Bağlanılan cihaz türü (Android / iOS)
+
 SEX → Cinsiyet
+
 COUNTRY → Ülke
+
 AGE → Yaş
 
 ⚠️ Her satır bir satın alma işlemidir. Aynı kullanıcı birden fazla işlem yapmış olabilir.
@@ -25,19 +29,20 @@ AGE → Yaş
 
 Müşteri personları oluşturmak
 
-Müşerileri gelir potansiyeline göre segmentlere ayırmak
+Müşterileri gelir potansiyeline göre segmentlere ayırmak
 
-Yeni gelen müşterilerin ortalama gelir getirisini tahmin etmek
-
-istemektedir.
+Yeni gelen müşterilerin ortalama gelir getirisini tahmin etmek istemektedir.
 
 Örnek Soru
 
 Türkiye’den iOS kullanan 25 yaşındaki bir erkek kullanıcı ortalama ne kadar gelir kazandırır?
 
 ✔ Persona oluşturma müşteri davranışlarını anlamayı kolaylaştırır
+
 ✔ Ülke ve cihaz türü gelir üzerinde önemli etkiye sahiptir
+
 ✔ Segmentasyon pazarlama stratejilerini optimize etmeye yardımcı olur
+
 ✔ Yeni kullanıcıların potansiyel değeri hızlıca tahmin edilebilir
 
 
